@@ -11,3 +11,4 @@ np.set_printoptions(precision=3, suppress=True)
 
 print(tf.__version__)
 
+crossfit_train = pd.read_csv('athletes.csv')
